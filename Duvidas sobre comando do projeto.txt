@@ -1,0 +1,5 @@
+
+localStorage.setItem() => serve para inserir um dado dentro de LocalStorage.
+
+
+localStorage.getItem() => serve para recuperar um dado dentro de localStorage.
